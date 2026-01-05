@@ -1,0 +1,7 @@
+{
+  "name": "OmniVision AI Traffic & Crowd Analyst",
+  "description": "A sophisticated smart city monitoring system using Gemini AI to analyze traffic flow, crowd density, and predict congestion risks while maintaining privacy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
